@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-ejones",
+  "version": "1.0.0",
+  "description": "A set of configuration values for ESLint",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanMJones/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Evan Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvanMJones/eslint-config/issues"
+  },
+  "homepage": "https://github.com/EvanMJones/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": ">= 5"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
